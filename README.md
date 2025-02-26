@@ -1,7 +1,6 @@
-## Hi there 👋
+## Hi there
 
-# 💫 About Me:
-👋 Hi, I'm Huzaifa!<br>I'm a Flutter Developer passionate about building seamless and scalable mobile applications. Currently, I'm in my final year of Software Engineering, working on projects that combine AI, NLP, and mobile development.<br><br>🚀 What I Do:<br>🏗 Flutter Development – Building cross-platform apps with a focus on UX and performance<br>🤖 AI & NLP – Implementing deep learning models in mobile apps (e.g., medical prescription classification)<br>☁ Cloud & Firebase – Utilizing Firestore, Authentication, and Storage for scalable backend solutions<br>🔥 Projects:<br>Bake Now – A confectionery ordering app<br>GlucoTrack – A diabetes tracking app with HbA1c prediction<br>Doc2Med (FYP) – A medical store app with AI-based prescription processing & chatbot<br> Open to collaborations & new opportunities in Flutter & AI-driven mobile apps!
+I'm Huzaifa!<br>I'm a Flutter Developer passionate about building seamless and scalable mobile applications. Currently, I'm in my final year of Software Engineering, working on projects that combine AI, NLP, and mobile development.<br><br>What I Do:<br>🏗Flutter Development – Building cross-platform apps with a focus on UX and performance<br>AI & NLP – Implementing deep learning models in mobile apps (e.g., medical prescription classification)<br>Cloud & Firebase – Utilizing Firestore, Authentication, and Storage for scalable backend solutions<br>Projects:<br>Bake Now – A confectionery ordering app<br>Prescripto (FYP) – A medical store app with AI-based prescription processing & chatbot<br> Open to collaborations & new opportunities in Flutter & AI-driven mobile apps!
 
 
 ## 🌐 Socials:
