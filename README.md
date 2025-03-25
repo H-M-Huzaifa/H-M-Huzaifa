@@ -1,5 +1,19 @@
-# About Me:
-Hi, I'm Huzaifa!<br>I'm a Flutter Developer passionate about building seamless and scalable mobile applications. Currently, I'm in my final year of Software Engineering, working on projects that combine AI, NLP, and mobile development.<br><br>What I Do:<br>Flutter Development – Building cross-platform apps with a focus on UX and performance<br>AI & NLP – Implementing deep learning models in mobile apps (e.g., medical prescription classification)<br>Cloud & Firebase – Utilizing Firestore, Authentication, and Storage for scalable backend solutions<br>Projects:<br>Bake Now – A confectionery ordering app<br>Prescripto (FYP) – A medical store app with AI-based prescription processing & chatbot<br> Open to collaborations & new opportunities in Flutter & AI-driven mobile apps!
+![Mario Bros Gamer](https://media.tenor.com/TNlgKEIMyxsAAAAC/mario-bros-bedroom.gif)  
+# About Me:  
+Hi, I'm Huzaifa!<br>I'm a Flutter Developer passionate about building seamless and scalable mobile applications. Currently, I'm in my final year of Software Engineering, working on projects that combine AI, NLP, and mobile development.<br><br>  
+
+What I Do:<br>  
+Flutter Development – Building cross-platform apps with a focus on UX and performance<br>  
+AI & NLP – Implementing deep learning models in mobile apps (e.g., medical prescription classification)<br>  
+Cloud & Firebase – Utilizing Firestore, Authentication, and Storage for scalable backend solutions<br>  
+UX Design – Specialized in UX Design through a 6-month course from Coursera<br><br>  
+
+Projects:<br>  
+Bake Now – A confectionery ordering app (UI/UX designed by me)<br>  
+Prescripto (FYP) – A medical store app with AI-based prescription processing & chatbot (UI/UX designed by me)<br><br>  
+
+Open to collaborations & new opportunities in Flutter & AI-driven mobile apps!  
+
 
 
 ## Socials:
