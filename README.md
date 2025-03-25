@@ -1,4 +1,4 @@
-![tenor](https://github.com/user-attachments/assets/317eb1e6-44fa-4c92-be77-fa982cd02e0e)![68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966](https://github.com/user-attachments/assets/882cc6f7-e8b2-454f-b71f-0dfbd982c31b)
+(https://github.com/user-attachments/assets/882cc6f7-e8b2-454f-b71f-0dfbd982c31b)
 
 # About Me:  
 Hi, I'm Huzaifa!<br>I'm a Flutter Developer passionate about building seamless and scalable mobile applications. Currently, I'm in my final year of Software Engineering, working on projects that combine AI, NLP, and mobile development.<br><br>  
