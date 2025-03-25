@@ -1,4 +1,4 @@
-![Mario Bros Gamer](https://media.tenor.com/TNlgKEIMyxsAAAAC/mario-bros-bedroom.gif)  
+![tenor](https://github.com/user-attachments/assets/317eb1e6-44fa-4c92-be77-fa982cd02e0e)
 # About Me:  
 Hi, I'm Huzaifa!<br>I'm a Flutter Developer passionate about building seamless and scalable mobile applications. Currently, I'm in my final year of Software Engineering, working on projects that combine AI, NLP, and mobile development.<br><br>  
 
@@ -13,6 +13,7 @@ Bake Now – A confectionery ordering app (UI/UX designed by me)<br>
 Prescripto (FYP) – A medical store app with AI-based prescription processing & chatbot (UI/UX designed by me)<br><br>  
 
 Open to collaborations & new opportunities in Flutter & AI-driven mobile apps!  
+
 
 
 
