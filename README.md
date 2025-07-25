@@ -2,7 +2,7 @@
 
 # About Me:
 
-Hi, I'm Huzaifa!<br>I'm a Flutter Developer passionate about building seamless and scalable mobile applications. Currently, I'm in my final year of Software Engineering.<br><br>  
+Hi, I'm Huzaifa!<br>A Flutter Developer passionate about building seamless and scalable mobile applications. Currently, I'm in my final year of Software Engineering.<br><br>  
 
 What I Do:<br>  
 Flutter Development – Building cross-platform apps with a focus on UX and performance<br>  
